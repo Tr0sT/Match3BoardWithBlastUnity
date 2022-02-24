@@ -1,0 +1,25 @@
+{
+    "name": "RSPAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b1d24e9b8b7ddb34f8d72000ede4b999",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:af2469075e4bde240bbe503631a119ed",
+        "GUID:ed108e6ab42404a00a819fb780186fba",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:593a5b492d29ac6448b1ebf7f035ef33",
+        "GUID:3377deebfb0acde45876d12c6e3d27cc",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:df6fd6abcb83f1f47935b84024b47264"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
