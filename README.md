@@ -13,3 +13,6 @@
 
 космос:
 - после осыпания всего поля можно нажать на любую фишку и эта фишка вместе со всеми соседями такого-же цвета уничтожатся а образовавшаяся пустота так-же заполнится согласно правилам осыпания написанным выше
+
+Require [Git](https://git-scm.com/) + [Git LFS](https://git-lfs.github.com/) for installing package.  
+Currently require [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) for drawing in inspector.  
